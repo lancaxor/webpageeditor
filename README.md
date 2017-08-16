@@ -5,6 +5,7 @@ In left top field insert your &lt;body&gt; tag content, in left bottom field ins
 Web browser updates in realtime, not depending on what are you editing -- CSS or HTML content (unlike the most other editors)!
 
 ==================================================================
+
 Редактор для веб-девелоперов с предпросмотром "на ходу"!
 
 В левое верхнее поле вставьте содержимое тэга &lt;body&gt;, в левое нижнее поле вставьте содержимое тэга &lt;style&gt;, и вуаля!
